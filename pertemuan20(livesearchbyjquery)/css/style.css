@@ -1,0 +1,19 @@
+.loader {
+    width: 100px;
+    position: absolute;
+    top: 118px;
+    left: 232px;
+    z-index: -1;
+    display: none;
+}
+
+a {
+    text-decoration: none;
+    color: blueviolet;
+}
+
+.content {
+    justify-content: center;
+    text-align: center;
+    align-items: center;
+}
